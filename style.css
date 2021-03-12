@@ -1,0 +1,126 @@
+.nav a {
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+  
+
+.logo-img {
+    width: 300px;
+    height: 35px;
+    left: 200px;
+    top: 30px;
+}
+
+
+
+.bg1 {
+    width: 100%;
+    height: auto;
+    left: 0px;
+    top: 0px;
+    background-color: rgb(255, 251, 240);
+    margin-bottom: 50px;
+}
+
+
+
+.orange-highlight {
+    color: orange;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.black-highlight{
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.bg {
+    background-color: rgb(229, 234, 240);
+    border-radius: 15px;
+    margin: 10px;
+    height: 450px;
+}
+
+
+.cart {
+    width: 20px;
+    height: 30px;
+}
+
+.btn {
+    background-color: rgb(163, 189, 62);
+    color: white;
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+h3 {
+    margin-left: 20px;
+    color: orange;
+
+}
+
+.navbar-nav>li {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+}
+
+
+
+.top-image {
+    width: 80%;
+}
+
+h2 {
+    position: static;
+    width: 405px;
+    height: 140px;
+    left: 205px;
+    top: 212px;
+
+    /* font-family: Poppins; */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.button-1 {
+    display: flex;
+    align-items: center;
+    padding: 12px 28px;
+    width: 105px;
+    height: 35px;
+
+    background: #21B573;
+    border-radius: 30px;
+}
+
+.box {
+    border-radius: 16px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px rgb(226, 224, 224);
+}
+
+.bottom-img {
+    width: 80px;
+    height: 90px;
+}
+
+.card-img {
+    width: 500px;
+    height: 300px;
+}
+
