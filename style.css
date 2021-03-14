@@ -107,13 +107,6 @@ h2 {
     border-radius: 30px;
 }
 
-.box {
-    border-radius: 16px;
-    padding: 10px;
-    margin: 5px;
-    box-shadow: 5px 5px 10px rgb(226, 224, 224);
-}
-
 .bottom-img {
     width: 80px;
     height: 90px;
@@ -123,4 +116,14 @@ h2 {
     width: 500px;
     height: 300px;
 }
+
+.box {
+    border-radius: 16px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px rgb(226, 224, 224);
+}
+
+
+
 
